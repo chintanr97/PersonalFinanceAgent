@@ -1,0 +1,16 @@
+pillow==11.0.0
+azure-ai-inference
+mistralai~=0.4.2
+python-dotenv~=1.0.1
+ipykernel~=6.29.5
+openai
+semantic-kernel[azure]==1.27.2
+autogen-ext[azure]
+autogen-core~=0.4.5
+autogen-agentchat
+azure-ai-projects
+autogen-ext==0.4.5
+pydantic 
+chromadb ~= 0.6.3
+azure-search-documents
+nbformat

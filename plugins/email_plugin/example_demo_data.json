@@ -1,0 +1,72 @@
+[
+    {
+        "subject": "[IMP]: Your Credit Score has ARRIVED!",
+        "sender": "Team BankBazaar <creditreport+ratealert@bankbazaar.com>",
+        "date": "01 Oct 2024 12:27:04 +0530 (IST)",
+        "body": "",
+        "id": 1
+    },
+    {
+        "subject": "Transaction on XYZ bank account",
+        "sender": "tx@xyz.com",
+        "date": "04 Oct 2024 18:02:54 +0530",
+        "body": "Transaction on XYZ bank account Rs. 900.00 on Oct 04, 2024 at 18:02:54. Info: ABC SUPERMARKET.",
+        "id": 2
+    },
+    {
+        "subject": "Feb mutual fund investment data, L&T's large contract, & more - Groww Digest",
+        "sender": "Groww Digest <noreply@digest.groww.in>",
+        "date": "11 Oct 2024 02:15:45 +0530",
+        "body": "",
+        "id": 3
+    },
+    {
+        "subject": "Transaction on XYZ bank account",
+        "sender": "tx@xyz.com",
+        "date": "06 Oct 2024 13:28:49 +0530",
+        "body": "Transaction on XYZ bank account Rs. 2,000.00 on Oct 06, 2024 at 13:28:49. Info: Amazon Shopping.",
+        "id": 4
+    },
+    {
+        "subject": "Order ABCD1234 has been confirmed",
+        "sender": "order@amazon.com",
+        "date": "06 Oct 2024 13:29:01 +0530",
+        "body": "Your order ABCD1234 for purchase of Cosco Volleyball has been confirmed at INR 1,234. You will be notified once it is shipped.",
+        "id": 5
+    },
+    {
+        "subject": "Order ABCD5678 has been confirmed",
+        "sender": "order@amazon.com",
+        "date": "06 Oct 2024 13:30:17 +0530",
+        "body": "Your order ABCD5678 for purchase of EFG tshirt has been confirmed at INR 766. You will be notified once it is shipped.",
+        "id": 6
+    },
+    {
+        "subject": "Purchase made on LMN card",
+        "sender": "purchase@lmn.com",
+        "date": "09 Oct 2024 22:46:36 +0530",
+        "body": "Purchase made on LMN card for INR 5,000.00 on Oct 09, 2024 at 22:46:36. Info: Booking.com.",
+        "id": 7
+    },
+    {
+        "subject": "Your travel booking PQR to DEF has been confirmed",
+        "sender": "book@booking.com",
+        "date": "09 Oct 2024 22:45:57 +0530",
+        "body": "JKL Airlines booking from PQR to DEF has been confirmed. Please reach out to the airline for any further queries.",
+        "id": 8
+    },
+    {
+        "subject": "What's next after Holi? 🤔",
+        "sender": "Swiggy Dineout <no-reply@swiggy.in>",
+        "date": "12 Oct 2025 19:36:29 +0530",
+        "body": "Email Template                             --Click Here to unsubscribe from this newsletter.",
+        "id": 9
+    },
+    {
+        "subject": "Purchase made on XYZ card",
+        "sender": "cards@xyz.com",
+        "date": "12 Oct 2024 15:10:38 +0530",
+        "body": "Transaction on XYZ bank account Rs. 200.00 on Oct 12, 2024 at 15:10:38. Info: Medicare House Pvt. Ltd.",
+        "id":10
+    }
+]
