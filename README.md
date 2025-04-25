@@ -43,5 +43,14 @@ With just 10 emails in the demo data you can manually validate the categories an
 
 **NOTE**: For testing purpose, the Gmail workflow in the email plugin is hard-coded to have time window as first 15 days of March 2025. This can be edited to suit your testing window as required.
 
+# Resources
+1. Azure AI agents for beginners: [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners/tree/main?tab=readme-ov-file).
+2. Azure AI Foundry: [Azure AI Foundry | Docs](https://learn.microsoft.com/en-us/azure/ai-foundry/)
+3. Semantic Kernel Python SDK: [semantic-kernel-python](https://github.com/microsoft/semantic-kernel/tree/main/python).
+4. Configuring Gmail APIs for reading emails: [How to use Gmail API in Python](https://thepythoncode.com/article/use-gmail-api-in-python).
+
+# Code of conduct
+Please refer to the guidelines in our file here: [Code of conduct](CODE_OF_CONDUCT.md).
+
 # License
 Licensed under the [MIT](LICENSE) license.
